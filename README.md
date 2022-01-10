@@ -4,6 +4,8 @@
 
 * Working through [this gitbook](https://basarat.gitbook.io/typescript/).
 
+![Typing Cartoon](https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif)
+
 TypeScript project boilerplate with modern tooling, for Node.js programs, libraries and browser modules. Get started quickly and right-footed 🚀
 
 * [TypeScript 4](https://www.typescriptlang.org/)
